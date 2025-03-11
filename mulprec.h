@@ -6,10 +6,10 @@
 #define RADIX 1000000000
 #define RADIX_KETA 9
 
-// /* 1000
+/* 1000
 #define KETA 256
 #define BASE 125
-// */
+*/
 
 struct NUMBER {
   long long int n[KETA];
